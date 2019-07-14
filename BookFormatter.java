@@ -5,6 +5,9 @@ import javax.swing.JFrame;
 
 public class BookFormatter {
 
+
+	//old code
+	//just testing out my new git tool with this
     public static void main(String[] args) {
         //initiate the GUI created in GUI.java
         GUI gui = new GUI();
